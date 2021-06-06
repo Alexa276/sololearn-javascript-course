@@ -8,6 +8,7 @@
 * [x] ```Modulo 3```
 * [x] ```Modulo 4```
 * [x] ```Modulo 5```
+* [x] ```Modulo 6```
 
 # Preguntas y Respuestas Finales:
 
