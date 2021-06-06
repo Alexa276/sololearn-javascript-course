@@ -116,7 +116,7 @@ else
 }
 
 * ¿Cuál es la sintaxis correcta para hacer referencia a un script externo llamado "script.js"?
-<script src = "script.js">
+// <script src = "script.js"> //
 
 
 * ¿Qué alerta se mostrará en la pantalla? función test (a, b) {if (a> b) {return a * b; } else {return b / a; }} alerta (prueba (5, 15));? 3
